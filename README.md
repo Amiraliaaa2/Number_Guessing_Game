@@ -1,16 +1,16 @@
 # 🎮 Number Guessing Game
 ## 📋 Table of Contents
-- [Overview](##overview)
-- [Features](##features)
-- [Gameplay](##gameplay)
-- [Installation](##installation)
-- [Usage](##usage)
-- [Customization](##customization)
-- [Code Structure](##code-structure)
-- [Example Output](##example-output)
-- [Testing](##testing)
-- [Contribution Guidelines](##contribution-guidelines)
-- [Future Enhancements](##future-enhancements)
+- [Overview](##Overview)
+- [Features](##Features)
+- [Gameplay](##Gameplay)
+- [Installation](##Installation)
+- [Usage](##Usage)
+- [Customization](##Customization)
+- [Code Structure](##Code-Structure)
+- [Example Output](##Example-Output)
+- [Testing](##Testing)
+- [Contribution Guidelines](##Contribution-Guidelines)
+- [Future Enhancements](##Future-Enhancements)
 - [License](##License)
 
 
