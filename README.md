@@ -1,7 +1,7 @@
 # 🎮 Number Guessing Game
 ![Free License](https://img.shields.io/badge/License-Free-brightgreen.svg)
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
-![Easy Afzar](https://img.shields.io/badge/Easy%20Afzar-Tailored%20Development-red?style=flat&logo=https://imgur.com/a/xaNKqQFlink=https://easyafzar.com)
+![Easy Afzar](https://img.shields.io/badge/Easy%20Afzar-Tailored%20Development-red?style=flat&link=https://easyafzar.com)
 
 ## 📋 Table of Contents
 - [Overview](##Overview)
